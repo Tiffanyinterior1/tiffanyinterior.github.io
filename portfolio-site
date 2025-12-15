@@ -1,0 +1,11 @@
+portfolio-site/
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── images/
+│   ├── project1.jpg
+│   ├── project2.jpg
+│   ├── project3.jpg
+│   └── project4.jpg
