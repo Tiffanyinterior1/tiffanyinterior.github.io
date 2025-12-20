@@ -23,6 +23,14 @@ body.dark-mode nav {
   background: #1a1a1a;
 }
 
+body.dark-mode nav a {
+  color: #f0f0f0;
+}
+
+body.dark-mode nav a:hover {
+  color: #a0c4c0;
+}
+
 body.dark-mode footer {
   color: #aaa;
 }
