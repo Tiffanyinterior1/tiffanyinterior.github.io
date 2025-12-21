@@ -23,6 +23,49 @@ body.dark-mode nav {
   background: #1a1a1a;
 }
 
+
+/* =========================
+   Project Page Styles
+   ========================= */
+
+.project-hero img {
+  width: 100%;
+  max-height: 80vh;
+  object-fit: cover;
+}
+
+.project-intro {
+  max-width: 700px;
+  margin: auto;
+}
+
+.project-meta {
+  margin-bottom: 1.5rem;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+body.dark-mode .project-meta {
+  color: #bbb;
+}
+
+.project-description {
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+.project-gallery {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.project-gallery img {
+  width: 100%;
+  display: block;
+}
+
 body.dark-mode nav a {
   color: #f0f0f0;
 }
